@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("git test4");
         System.out.println("master change");
         System.out.println("hot-fix change");
+        System.out.println("hot-fix change2");
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("pull test another day");
